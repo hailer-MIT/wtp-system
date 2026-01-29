@@ -34,7 +34,12 @@ app.use(cors({
         // Allow requests with no origin (like mobile apps or curl requests)
         if (!origin) return callback(null, true);
 
-        if (allowedOrigins.indexOf(origin) !== -1 || allowedOrigins.includes('*')) {
+        // Check if origin is allowed
+        const isAllowed = allowedOrigins.indexOf(origin) !== -1 ||
+            allowedOrigins.includes('*') ||
+            origin.endsWith('.onrender.com'); // Allow all Render subdomains
+
+        if (isAllowed) {
             callback(null, true);
         } else {
             console.log('❌ CORS blocked origin:', origin);
