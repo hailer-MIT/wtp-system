@@ -77,9 +77,9 @@ export const model = {
     }),
   },
   apiUrl: {
-    url: "http://localhost:4000",
-    // url: "http://192.168.110.124:4000",
-    // url: "https://api.mekdesprinting.com",
+    url: process.env.REACT_APP_API_URL || "https://wtp-oms.onrender.com",
+    // Local development: "http://localhost:4000"
+    // Production: "https://wtp-oms.onrender.com"
   },
   sidebar: {
     toggled: false,

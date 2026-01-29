@@ -22,13 +22,12 @@ import { createClient } from "graphql-ws";
 const store = createStore(model);
 
 const httpLink = new HttpLink({
-  uri: store?.getState()?.apiUrl?.url,
+  uri: process.env.REACT_APP_API_URL || "https://wtp-oms.onrender.com",
 });
 
 const wsLink = new GraphQLWsLink(
   createClient({
-    url: "ws://localhost:4000/",
-    // url: "wss://api.mekdesprinting.com/",
+    url: process.env.REACT_APP_WS_URL || "wss://wtp-oms.onrender.com/",
 
     connectionParams: () => ({
       authorization: localStorage.getItem("token"),
