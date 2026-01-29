@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"phoneNumber":{"$numberInt":"1"}},"name":"phoneNumber_1","background":true,"unique":true}],"uuid":"25fb3e2584e94405921e0473ec5316f0","collectionName":"designers","type":"collection"}

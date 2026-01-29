@@ -1,0 +1,64 @@
+itemCode,itemName,unit,quantity,type,assetType,cratedAt
+R1,Resister OM,pcs,110,333,accessory,2023-07-12T07:47:52.120+00:00
+R2,Resister OM,pcs,10,10K,accessory,2023-07-12T07:47:52.120+00:01
+R3,Resister OM,pcs,30,100 MS,accessory,2023-07-12T07:47:52.120+00:02
+S4,Senser,pcs,1,Imidity,accessory,2023-07-12T07:47:52.120+00:03
+S5,Senser,pcs,1,proci.,accessory,2023-07-12T07:47:52.120+00:04
+D6,Digital Number,pcs,1,dig,accessory,2023-07-12T07:47:52.120+00:05
+S7,Sensor,pcs,1,Alchol,accessory,2023-07-12T07:47:52.120+00:06
+S8,Sensor,pcs,1,LGR,accessory,2023-07-12T07:47:52.120+00:07
+R9,Relay,pcs,4,Relay,accessory,2023-07-12T07:47:52.120+00:08
+A10,Ardino Uno,pcs,2,uno,accessory,2023-07-12T07:47:52.120+00:09
+A11,Ardineo Mega,pcs,2,mega,accessory,2023-07-12T07:47:52.120+00:10
+S12,Senser -Door lock ,pcs,1,lock,accessory,2023-07-12T07:47:52.120+00:11
+J13,Jumper  male,Set,1,male,accessory,2023-07-12T07:47:52.120+00:12
+J14,jumer female ,Set,1,female,accessory,2023-07-12T07:47:52.120+00:13
+S15,solondoe Valve ,pcs,1,water,accessory,2023-07-12T07:47:52.120+00:14
+S16,sensor,pcs,1,mike,accessory,2023-07-12T07:47:52.120+00:15
+S17,sensor,pcs,1,Altro sonic,accessory,2023-07-12T07:47:52.120+00:16
+A18,Ardineo connecter,pcs,1,connectr,accessory,2023-07-12T07:47:52.120+00:17
+C19,CD printer ,pcs,1,l.head,accessory,2023-07-12T07:47:52.120+00:18
+P20,Pump,pcs,3,water,accessory,2023-07-12T07:47:52.120+00:19
+S21,sensor,pcs,1,indactive,accessory,2023-07-12T07:47:52.120+00:20
+S22,sensor,pcs,2,IR,accessory,2023-07-12T07:47:52.120+00:21
+M23,motor,pcs,2,serro,accessory,2023-07-12T07:47:52.120+00:22
+S24,steper motor ,pcs,2,nima23,accessory,2023-07-12T07:47:52.120+00:23
+S25,Steper Driver,pcs,2,6685A,accessory,2023-07-12T07:47:52.120+00:24
+B26,breed board ,pcs,1,pcb,accessory,2023-07-12T07:47:52.120+00:25
+S27,Speaker,pcs,2,buzzle,accessory,2023-07-12T07:47:52.120+00:26
+A28,Analog,pcs,1,Dirrection ,accessory,2023-07-12T07:47:52.120+00:27
+B29,Button,pcs,5,push,accessory,2023-07-12T07:47:52.120+00:28
+L30,led,pcs,12,lamp,accessory,2023-07-12T07:47:52.120+00:29
+S31,senser,pcs,1,photo ,accessory,2023-07-12T07:47:52.120+00:30
+T32,Timer,pcs,2,diod,accessory,2023-07-12T07:47:52.120+00:31
+A33,Adapter,pcs,1,mh2,accessory,2023-07-12T07:47:52.120+00:32
+T34,Transister,pcs,2,usp,accessory,2023-07-12T07:47:52.120+00:33
+T35,Battry,pcs,1,npn,accessory,2023-07-12T07:47:52.120+00:34
+T36,Gps car,pcs,1,multi,accessory,2023-07-12T07:47:52.120+00:35
+T37,Adapter,pcs,1,meter,accessory,2023-07-12T07:47:52.120+00:36
+S38,Spindle Head,pcs,5,car,accessory,2023-07-12T07:47:52.120+00:37
+P39,Punta,pcs,4,24Bsa,accessory,2023-07-12T07:47:52.120+00:38
+P40,Punta,pcs,2,6mm,accessory,2023-07-12T07:47:52.120+00:39
+S41,Spindle Head,pcs,1,4mm,accessory,2023-07-12T07:47:52.120+00:40
+A42,Alenke,pcs,2,13/16,accessory,2023-07-12T07:47:52.120+00:41
+L43,Leather head ,pcs,3,3mm,accessory,2023-07-12T07:47:52.120+00:42
+T44,Timer ,pcs,1,All Acceser.,accessory,2023-07-12T07:47:52.120+00:43
+B45,Belt ,Role ,1,cerres,accessory,2023-07-12T07:47:52.120+00:44
+S46,Screen Driver ,pcs,1,Digital,accessory,2023-07-12T07:47:52.120+00:45
+B47,Belt ,pcs,5,timing,accessory,2023-07-12T07:47:52.120+00:46
+P48,Power Supply,pcs,1,led,accessory,2023-07-12T07:47:52.120+00:47
+L49,Leather head ,pcs,1,circle,accessory,2023-07-12T07:47:52.120+00:48
+B50,Breaker,pcs,1,25A,accessory,2023-07-12T07:47:52.120+00:49
+L51,Led,set,1,chips,accessory,2023-07-12T07:47:52.120+00:50
+M52,Mikro Proccecer,pcs,14,Ardin,accessory,2023-07-12T07:47:52.120+00:51
+C53,CD printer ,Role ,1,eo,accessory,2023-07-12T07:47:52.120+00:52
+C54,CD printer ,pcs,1,mieka,accessory,2023-07-12T07:47:52.120+00:53
+L55,leather p.supply,pcs,1,45KB,accessory,2023-07-12T07:47:52.120+00:54
+C56,CD printer ,pcs,1,mieka,accessory,2023-07-12T07:47:52.120+00:55
+D57,Drum opc,pcs,1,2318,accessory,2023-07-12T07:47:52.120+00:56
+P58,Printer master,pcs,2,H1088j(A),accessory,2023-07-12T07:47:52.120+00:57
+P59,power Adupter,pcs,1,PH,accessory,2023-07-12T07:47:52.120+00:58
+D60,Driver (lens),pcs,1,leather,accessory,2023-07-12T07:47:52.120+00:59
+C61,crb shield,pcs,1,,accessory,2023-07-12T07:47:52.120+00:60
+I62,Idler,pcs,6,,accessory,2023-07-12T07:47:52.120+00:61
+S63,screw driver ,pcs,1,,accessory,2023-07-12T07:47:52.120+00:62

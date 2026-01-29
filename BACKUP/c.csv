@@ -1,0 +1,250 @@
+itemCode,itemName,unit,size,tickness,color,type,quantity,cratedAt,assetType
+MGT.C.A.1,"45 gm , Paper ",Rim,61*86 ,,white,,17,2023-07-12T07:47:52.120+00:00,current
+MGT.C.A.2,"45 gm , Paper ",sheet,61*86 ,,white,,300,2023-07-12T07:47:52.120+00:01,current
+MGT.C.A.3,"45 gm , Paper (Local )",Rim,61*86 ,,white,,2,2023-07-12T07:47:52.120+00:02,current
+MGT.C.A.4,"45 gm , Paper , Local",sheet,61*86 ,,white,,241,2023-07-12T07:47:52.120+00:03,current
+MGT.C.A.5,"45 gm , Paper , Imported",sheet,61*86 ,,white,,262,2023-07-12T07:47:52.120+00:04,current
+MGT.C.A.6,"45 gm , Paper , Local",sheet,61*86 ,,white,,331,2023-07-12T07:47:52.120+00:05,current
+MGT.C.A.7,"45 gm , Paper , Local",Rim,61*86 ,,white,,1,2023-07-12T07:47:52.120+00:06,current
+MGT.C.A.8,"80 gm , Paper , ",Rim,61*86 ,,white,,3,2023-07-12T07:47:52.120+00:07,current
+MGT.C.A.9,"80 gm , Paper , ",Sheet,61*86 ,,white,,102,2023-07-12T07:47:52.120+00:08,current
+MGT.C.A.11,"60gm , Paper , ",Sheet,61*86 ,,white,,68,2023-07-12T07:47:52.120+00:09,current
+MGT.C.A.12,"60gm , Paper , ",Rim,61*86 ,,white,,1,2023-07-12T07:47:52.120+00:10,current
+MGT.C.A.13,"60gm , Paper , ",Sheet,61*86 ,,white,,320,2023-07-12T07:47:52.120+00:11,current
+MGT.C.A.14,"180gm , card /manela",Rim,61*86 ,,white,,20,2023-07-12T07:47:52.120+00:12,current
+MGT.C.A.15,"180gm , Paper , ",Sheet,61*86 ,,white,,68,2023-07-12T07:47:52.120+00:13,current
+MGT.C.A.16,"45 gm , Paper , Local",Rim,61*86 ,,Pink,,1,2023-07-12T07:47:52.120+00:14,current
+MGT.C.A.17,"45 gm , Paper , Local",sheet,61*86 ,,pink,,125,2023-07-12T07:47:52.120+00:15,current
+MGT.C.A.18,"45 gm , Paper , Imported",Rim,61*86 ,,Pink,,2,2023-07-12T07:47:52.120+00:16,current
+MGT.C.A.19,"45 gm , Paper , Imported",sheet,61*86 ,,pink,,303,2023-07-12T07:47:52.120+00:17,current
+MGT.C.A.20,"180gm , card /manela",Rim,61*86 ,,Pink,,23,2023-07-12T07:47:52.120+00:18,current
+MGT.C.A.21,"180gm , card /manela",Sheet,61*86 ,,Pink,,75,2023-07-12T07:47:52.120+00:19,current
+MGT.C.A.22,"45 gm , Paper , Local",Sheet,61*86 ,,Dreen,,202,2023-07-12T07:47:52.120+00:20,current
+MGT.C.A.23,"45 gm , Paper ",Rim,61*86 ,,Green,,2,2023-07-12T07:47:52.120+00:21,current
+MGT.C.A.24,"45 gm , Paper , Imported",Rim,61*86 ,,Yellow,,2,2023-07-12T07:47:52.120+00:22,current
+MGT.C.A.25,"180gm , card /manela",Rim,61*86 ,,Yellow,,30,2023-07-12T07:47:52.120+00:23,current
+MGT.C.A.26,"180gm , card /manela",Sheet,61*86 ,,Yellow,,78,2023-07-12T07:47:52.120+00:24,current
+MGT.C.A.27,"180gm , card /manela",Rim,70*100,,Yellow,,1,2023-07-12T07:47:52.120+00:25,current
+MGT.C.A.28,"180gm , card /manela",Rim,70*100,,Green,,19,2023-07-12T07:47:52.120+00:26,current
+MGT.C.A.29,"180gm , card /manela",Sheet,70*100,,Green,,15,2023-07-12T07:47:52.120+00:27,current
+MGT.C.A.30,"240gm , card/manela",Rim,70*100,,Green,,1,2023-07-12T07:47:52.120+00:28,current
+MGT.C.A.31,"240gm , card/manela",Rim,70*100,,Pink,,48,2023-07-12T07:47:52.120+00:29,current
+MGT.C.A.32,"240gm , card/manela",Sheet,70*100,,Pink,,90,2023-07-12T07:47:52.120+00:30,current
+MGT.C.A.33,250 gm Duplex,Rim,70*100,,white,,1,2023-07-12T07:47:52.120+00:31,current
+MGT.C.A.34,350 gm Duplex,Rim,70*100,,white,,1,2023-07-12T07:47:52.120+00:32,current
+MGT.C.A.35,350 gm Duplex,Sheet,70*100,,white,,48,2023-07-12T07:47:52.120+00:33,current
+MGT.C.A.36,"Balacron ( ID Card ), Paper",Sheet,70*100,,Light Red,,12,2023-07-12T07:47:52.120+00:34,current
+MGT.C.A.37,Filling  Paper ( ???? ),Sheet,70*10,,Brown,,23,2023-07-12T07:47:52.120+00:35,current
+MGT.C.A.38,100gm  Art Paper ,Rim,61*86,,white,,1.5,2023-07-12T07:47:52.120+00:36,current
+MGT.C.A.39,150gm  Art Paper ,Rim,70*100,,white,,4,2023-07-12T07:47:52.120+00:37,current
+MGT.C.A.40, 150gm  Art Paper ,Rim,61*86,,white,,1,2023-07-12T07:47:52.120+00:38,current
+MGT.C.A.41,150gm Art Paper ,Sheet,61*86,,white,,91,2023-07-12T07:47:52.120+00:39,current
+MGT.C.A.42, 250gm Art Paper ,Rim,61*86,,white,,1,2023-07-12T07:47:52.120+00:40,current
+MGT.C.A.44,350gm  Art Paper ,Rim,61*88,,white,,4,2023-07-12T07:47:52.120+00:41,current
+MGT.C.A.46,CB,Sheet,61*89,,white,,290,2023-07-12T07:47:52.120+00:42,current
+MGT.C.A.47,CFB,Sheet,61*91,,,,0,2023-07-12T07:47:52.120+00:43,current
+MGT.C.A.48,CFB,Sheet,61*92,,Blue,,60,2023-07-12T07:47:52.120+00:44,current
+MGT.C.A.49,CB,Sheet,A4,,white,,230,2023-07-12T07:47:52.120+00:45,current
+MGT.C.A.50,CFB,Sheet,A4,,Pink,,900,2023-07-12T07:47:52.120+00:46,current
+MGT.C.A.51,CF,Sheet,A4,,Pink,,210,2023-07-12T07:47:52.120+00:47,current
+MGT.C.A.52,CFB,Sheet,A4,,Green,,4220,2023-07-12T07:47:52.120+00:48,current
+MGT.C.A.53,CF,Sheet,A4,,Green,,490,2023-07-12T07:47:52.120+00:49,current
+MGT.C.A.54,CFB,Sheet,A4,,Yellow,,370,2023-07-12T07:47:52.120+00:50,current
+MGT.C.A.55,CF,Sheet,A4,,Yellow,,92,2023-07-12T07:47:52.120+00:51,current
+MGT.C.A.56,Paper Sticker,Sheet,70*100 ,,white,,80,2023-07-12T07:47:52.120+00:52,current
+MGT.C.A.57,CD-STICKER,Sheet,A4,,white,,38,2023-07-12T07:47:52.120+00:53,current
+MGT.C.A.58,"OHP film, Transparent, ",Sheet,A4,,light  Colour,,70,2023-07-12T07:47:52.120+00:54,current
+MGT.C.A.59,"White T-shirt Sticker,  ",pcs,A4,,white,,1550,2023-07-12T07:47:52.120+00:55,current
+MGT.C.A.60,Light Laser Transparent paper,pcs,A4,,white,,167,2023-07-12T07:47:52.120+00:56,current
+MGT.C.A.61,"A4  ART 80gm , Paper",Sheet,A4,,White,,770,2023-07-12T07:47:52.120+00:57,current
+MGT.C.A.62,"A4  ART 150gm , Paper",Sheet,A3,,White,,262,2023-07-12T07:47:52.120+00:58,current
+MGT.C.A.63,"A4  ART 180gm , Card manela",Sheet,A4,,White,,1140,2023-07-12T07:47:52.120+00:59,current
+MGT.C.A.64,"A4  ART 250gm , Paper",Sheet,A4,,white,,45,2023-07-12T07:47:52.120+00:60,current
+MGT.C.A.65,"A4  ART 250gm , Paper",Sheet,25*26cm,,white,,410,2023-07-12T07:47:52.120+00:61,current
+MGT.C.A.66,"A4  ART 300gm , Paper",Sheet,A3,,White,,100,2023-07-12T07:47:52.120+00:62,current
+MGT.C.A.67,"A4  ART 350gm , Paper",Sheet,,,white,,1040.00,2023-07-12T07:47:52.120+00:63,current
+MGT.C.A.68,RINGS  (PLASTICS),pcs,A4,,White,,149,2023-07-12T07:47:52.120+00:64,current
+MGT.C.A.69,"RINGS  (PLASTICS), Smaller Size ",pcs,A4,,Black,,185,2023-07-12T07:47:52.120+00:65,current
+MGT.C.A.70,"RINGS  (PLASTICS), ",pcs,A4,,Black,,25,2023-07-12T07:47:52.120+00:66,current
+MGT.C.A.71,"RINGS  (PLASTICS), Bigger Size",pcs,A4,,Blue,,31,2023-07-12T07:47:52.120+00:67,current
+MGT.C.A.72,"RINGS  (PLASTICS), Bigger Size",pcs,A5,,Black,,41,2023-07-12T07:47:52.120+00:68,current
+MGT.C.A.73,"Plaque Stick , thinner size ",pcs,,,white,,330,2023-07-12T07:47:52.120+00:69,current
+MGT.C.A.74,"Plaque Stick , thicker size ",pcs,,,white,,84,2023-07-12T07:47:52.120+00:70,current
+MGT.C.A.75,"LED FLEXIBLE , TRIP LIGHT ",M,,,,,99,2023-07-12T07:47:52.120+00:71,current
+MGT.C.A.76,"LED FLEXIBLE , TRIP LIGHT ",M,,,,,14,2023-07-12T07:47:52.120+00:72,current
+MGT.C.A.77,"POWER SUPPLY , LED  , MN 200W, 5A",PCS,,,,,5,2023-07-12T07:47:52.120+00:73,current
+MGT.C.A.78,"Polar 90 machine  cutter Blade ,1.10M",PCS,,,,,2,2023-07-12T07:47:52.120+00:74,current
+MGT.C.A.79,"Cutter Blades, 92.5cm*10cm",PCS,,,,,1,2023-07-12T07:47:52.120+00:75,current
+MGT.C.A.80,"Cutter Blades, 87cm*9.5cm",PCS,,,,,1,2023-07-12T07:47:52.120+00:76,current
+MGT.C.A.81,"Cutter Blades, 86.5cm*9cm",PCS,,,,,1,2023-07-12T07:47:52.120+00:77,current
+MGT.C.A.82,"Cutter Blades, 86.7cm*8cm",PCS,,,,,1,2023-07-12T07:47:52.120+00:78,current
+MGT.C.A.83,"Cutter Blades, 109cm*8.5cm",PCS,,,,,1,2023-07-12T07:47:52.120+00:79,current
+MGT.C.A.84,"Cutter Blades, 109cm*9cm",PCS,,,,,1,2023-07-12T07:47:52.120+00:80,current
+MGT.C.A.85,Disc  Grinder ,PCS,,,,,1,2023-07-12T07:47:52.120+00:81,current
+MGT.C.A.86,Cord Plate ,pcs,65*35,,,,12,2023-07-12T07:47:52.120+00:82,current
+MGT.C.A.87,Plate Cleaner,pcs,littre,,,,1,2023-07-12T07:47:52.120+00:83,current
+MGT.C.A.88,Ink Magenta,bottle,bottl,,Red,,7,2023-07-12T07:47:52.120+00:84,current
+MGT.C.A.89,Ink Black,bottle,,,Black,,1,2023-07-12T07:47:52.120+00:85,current
+MGT.C.A.90,"Ink Magenta , Ink Jet",kg,,,Magenta,,1,2023-07-12T07:47:52.120+00:86,current
+MGT.C.A.91,"Ink Magenta , Ink Jet",kg,,,Yellow,,1,2023-07-12T07:47:52.120+00:87,current
+MGT.C.A.92,"Printing Ink , Lastosol",kg,,,White,,1,2023-07-12T07:47:52.120+00:88,current
+MGT.C.A.93,"Printing Ink , Lastosol",kg,,,Black,,1,2023-07-12T07:47:52.120+00:89,current
+MGT.C.A.94,"Printing Ink , Lastosol",kg,,,Golden,,1,2023-07-12T07:47:52.120+00:90,current
+MGT.C.A.95,"Printing Ink , Lastosol",kg,,,Yellow,,1,2023-07-12T07:47:52.120+00:91,current
+MGT.C.A.96,"Printing Ink , Lastosol",kg,,,Base fast,,1,2023-07-12T07:47:52.120+00:92,current
+MGT.C.A.97,"Printing Ink , Lastosol",kg,,,Blue,,1,2023-07-12T07:47:52.120+00:93,current
+MGT.C.A.98,"Printing Ink , Lastosol",kg,,,Blue,,1,2023-07-12T07:47:52.120+00:94,current
+MGT.C.A.99,Black Ink,bottle,100ml,,black,,5,2023-07-12T07:47:52.120+00:95,current
+MGT.C.A.100,Black Ink,bottle,100ml,,Light Magenta,,6,2023-07-12T07:47:52.120+00:96,current
+MGT.C.A.101,Black Ink,bottle,100ml,,Normal,,3,2023-07-12T07:47:52.120+00:97,current
+MGT.C.A.102,Black Ink,bottle,100ml,,Cane,,1,2023-07-12T07:47:52.120+00:98,current
+MGT.C.A.103,Black Ink,bottle,100ml,,Yˆllow,,2,2023-07-12T07:47:52.120+00:99,current
+MGT.C.A.104,Solvent Ink  ,litre,,,Yˆllow,CJ35,1,2023-07-12T07:47:52.120+00:100,current
+MGT.C.A.105,Magenta  solvet ink,litre,,,Magenta,KJ35,1,2023-07-12T07:47:52.120+00:101,current
+MGT.C.A.106,Solvent Ink  CYAN,litre,,,Cyan,SK4,1,2023-07-12T07:47:52.120+00:102,current
+MGT.C.A.107,Solvent  ( Chemical ),litre,,,,,0.5,2023-07-12T07:47:52.120+00:103,current
+MGT.C.A.108,Hight strength light fast,litre,,,4RED,,1,2023-07-12T07:47:52.120+00:104,current
+MGT.C.A.109,Hight strength light fast,litre,,,Yellow,,1,2023-07-12T07:47:52.120+00:105,current
+MGT.C.A.110,Hight strength light fast,litre,,,Blue,,1,2023-07-12T07:47:52.120+00:106,current
+MGT.C.A.111,Hight strength light fast,litre,,,Daark Red,,2,2023-07-12T07:47:52.120+00:107,current
+MGT.C.A.112,Hight strength light fast,litre,,,Daark Green,,2,2023-07-12T07:47:52.120+00:108,current
+MGT.C.A.113,Spray,PCS,,,Light Blue,,13,2023-07-12T07:47:52.120+00:109,current
+MGT.C.A.114,Spray,PCS,,,RED,,9,2023-07-12T07:47:52.120+00:110,current
+MGT.C.A.115,Spray,PCS,,,Black,,1,2023-07-12T07:47:52.120+00:111,current
+MGT.C.A.116,Spray,PCS,,,White,,1,2023-07-12T07:47:52.120+00:112,current
+MGT.C.A.117,Tela,Roll,,,Dark Blue,,1,2023-07-12T07:47:52.120+00:113,current
+MGT.C.A.118,Tela,Roll,,,Light Blue,,0.5,2023-07-12T07:47:52.120+00:114,current
+MGT.C.A.119,Twin Ring wire,Roll,Wide,,White,,1,2023-07-12T07:47:52.120+00:115,current
+MGT.C.A.120,Twin Ring wire,Roll,Narrow,,White,,1,2023-07-12T07:47:52.120+00:116,current
+MGT.C.A.121,Shoping Bag,PCS,40*30,,White,,1,2023-07-12T07:47:52.120+00:117,current
+MGT.C.A.122,Shoping Bag,PCS,50*40,,White,,1,2023-07-12T07:47:52.120+00:118,current
+MGT.C.A.123,Shoping Bag,PCS,4040,,White,,1,2023-07-12T07:47:52.120+00:119,current
+MGT.C.A.124,Zekolo ,Roll,,,Golden,,1,2023-07-12T07:47:52.120+00:120,current
+MGT.C.A.125,Zekolo ,Roll,,,Black,,1,2023-07-12T07:47:52.120+00:121,current
+MGT.C.A.126,Cutter Disc,pcs,,,,,76,2023-07-12T07:47:52.120+00:122,current
+MGT.C.A.127,Zekolo ,Roll,,,White,,1,2023-07-12T07:47:52.120+00:123,current
+MGT.C.A.128,Maika Arcli/Acrylic,Pcs,245cm*1.22cm,3,Black,,3,2023-07-12T07:47:52.120+00:124,current
+MGT.C.A.129,Maika Acrylic,Pcs,245cm*1.22cm,3,White,,2,2023-07-12T07:47:52.120+00:125,current
+MGT.C.A.130,Maika Acrylic,Pcs,245cm*1.22cm,3,Red,,1,2023-07-12T07:47:52.120+00:126,current
+MGT.C.A.131,Foam,pcs,245cm*1.22cm,10,white,,50,2023-07-12T07:47:52.120+00:127,current
+MGT.C.A.132,Foam,pcs,245cm*1.22cm,3,white,,1,2023-07-12T07:47:52.120+00:128,current
+MGT.C.A.133,Almunium Plate,pcs,120*60cm,,silver,,1,2023-07-12T07:47:52.120+00:129,current
+MGT.C.A.134,Banner,Role,210M,,white,,6,2023-07-12T07:47:52.120+00:130,current
+MGT.C.A.135,Banner Sticker,Role,150m,,white,,1,2023-07-12T07:47:52.120+00:131,current
+MGT.C.A.136,Slow Sticker ,Role,,,white,,2,2023-07-12T07:47:52.120+00:132,current
+MGT.C.A.137,Flag Banner,Role,127,,white,,1,2023-07-12T07:47:52.120+00:133,current
+MGT.C.A.138,T.shirt  Sticker,Role,,,Golden ,,1,2023-07-12T07:47:52.120+00:134,current
+MGT.C.A.139,T.shirt  Sticker,Role,,,white,,1,2023-07-12T07:47:52.120+00:135,current
+MGT.C.A.140,T.shirt  Sticker,Role,,,Rose ,,1,2023-07-12T07:47:52.120+00:136,current
+MGT.C.A.141,T.shirt  Sticker,Role,,,Yellow,,1,2023-07-12T07:47:52.120+00:137,current
+MGT.C.A.142,T.shirt  Sticker,Role,,,Black,,0,2023-07-12T07:47:52.120+00:138,current
+MGT.C.A.143,Glass Sticker,Role,61*50,,Golden,,1,2023-07-12T07:47:52.120+00:139,current
+MGT.C.A.144,Glass Sticker,Role,61*50,,Yellow,,1,2023-07-12T07:47:52.120+00:140,current
+MGT.C.A.145,Glass Sticker,Role,61*50,,Green,,1,2023-07-12T07:47:52.120+00:141,current
+MGT.C.A.146,Glass Sticker /window stick,Role,61*50,,Red,,1,2023-07-12T07:47:52.120+00:142,current
+MGT.C.A.147,Glass Sticker /window stick,Role,61*50,,Blue,,1,2023-07-12T07:47:52.120+00:143,current
+MGT.C.A.148,Glass Sticker /window stick,Role,61*50,,Black,,1,2023-07-12T07:47:52.120+00:144,current
+MGT.C.A.149,Glass Sticker/Window film,Role,110*29*40,,Silver,,4,2023-07-12T07:47:52.120+00:145,current
+MGT.C.A.150,Trodat ,PCS,,,,4910,4,2023-07-12T07:47:52.120+00:146,current
+MGT.C.A.151,Trodat ,PCS,,,,3913,1,2023-07-12T07:47:52.120+00:147,current
+MGT.C.A.152,Trodat ,PCS,,,,4929,12,2023-07-12T07:47:52.120+00:148,current
+MGT.C.A.153,Pen Stamp,pcs,,,,9512,6,2023-07-12T07:47:52.120+00:149,current
+MGT.C.A.154,Max Stamp ,PCS,,,,ps 1848A,1,2023-07-12T07:47:52.120+00:150,current
+MGT.C.A.155,Ex Mark Stamp,PCS,,,,,4,2023-07-12T07:47:52.120+00:151,current
+MGT.C.A.156,Trodat ,PCS,,,,4914,0,2023-07-12T07:47:52.120+00:152,current
+MGT.C.A.157,Self -Ink Stamp,PCS,,,,s-827,1,2023-07-12T07:47:52.120+00:153,current
+MGT.C.A.158,Trodat ,PCS,,,,5460,1,2023-07-12T07:47:52.120+00:154,current
+MGT.C.A.159,Trodat ,PCS,,,,4405,1,2023-07-12T07:47:52.120+00:155,current
+MGT.C.A.160,Trodat ,PCS,,,,4928,1,2023-07-12T07:47:52.120+00:156,current
+MGT.C.A.161,Trodat ,PCS,,,,4642,0,2023-07-12T07:47:52.120+00:157,current
+MGT.C.A.162,Self -Ink Stamp,PCS,,,,4903,1,2023-07-12T07:47:52.120+00:158,current
+MGT.C.A.163,Trodat ,PCS,,,,4927,1,2023-07-12T07:47:52.120+00:159,current
+MGT.C.A.164,Sun stamp,PCS,,,,R,3,2023-07-12T07:47:52.120+00:160,current
+MGT.C.A.165,Sun stamp,PCS,,,,Q,1,2023-07-12T07:47:52.120+00:161,current
+MGT.C.A.166,Sun stamp,PCS,,,,X,1,2023-07-12T07:47:52.120+00:162,current
+MGT.C.A.167,Sun stamp,PCS,,,,B,2,2023-07-12T07:47:52.120+00:163,current
+MGT.C.A.168,Sun Stamp Pocket,PCS,,,,R,4,2023-07-12T07:47:52.120+00:164,current
+MGT.C.A.169,Trodat ink,PCS,,,,,1,2023-07-12T07:47:52.120+00:165,current
+MGT.C.A.170,Award,PCS,Small,,,,1,2023-07-12T07:47:52.120+00:166,current
+MGT.C.A.171,Wood Stamp,PCS,,,,,0,2023-07-12T07:47:52.120+00:167,current
+MGT.C.A.172,Name Teater,PCS,,,,,450,2023-07-12T07:47:52.120+00:168,current
+MGT.C.A.173,Wood -D Type,PCS,,,,,29,2023-07-12T07:47:52.120+00:169,current
+MGT.C.A.174,Wood Circle ,PCS,,,,,151,2023-07-12T07:47:52.120+00:170,current
+MGT.C.A.175,Cristal Medalia,PCS,,,,,1,2023-07-12T07:47:52.120+00:171,current
+MGT.C.A.176,Cristal Medalia,PCS,,,,,1,2023-07-12T07:47:52.120+00:172,current
+MGT.C.A.177,T-shirt Sublimation,PCS,XL,,White,o-Shape,50,2023-07-12T07:47:52.120+00:173,current
+MGT.C.A.178,T-shirt Sublimation,PCS,Medium,,White,o-Shape,74,2023-07-12T07:47:52.120+00:174,current
+MGT.C.A.179,T-shirt Sublimation,PCS,XXL,,White,o-Shape,44,2023-07-12T07:47:52.120+00:175,current
+MGT.C.A.180,T-shirt Sublimation,PCS,Medium,,White,Norma,3,2023-07-12T07:47:52.120+00:176,current
+MGT.C.A.181,T-shirt Sublimation,PCS,XL,,White,o-Shape,28,2023-07-12T07:47:52.120+00:177,current
+MGT.C.A.182,T-shirt Cotton,PCS,Large,,Yellow,V,1,2023-07-12T07:47:52.120+00:178,current
+MGT.C.A.183,T-shirt Cotton,PCS,Medium,,Yellow,V,10,2023-07-12T07:47:52.120+00:179,current
+MGT.C.A.184,Polo T- Shirt Cotton,PCS,Medium,,White,,49,2023-07-12T07:47:52.120+00:180,current
+MGT.C.A.185,Polo T- Shirt Cotton,PCS,L,,White,,3,2023-07-12T07:47:52.120+00:181,current
+MGT.C.A.186,T-shirt Sublimation,PCS,Large  ,,,o-Shape,28,2023-07-12T07:47:52.120+00:182,current
+MGT.C.A.187,Scarb,pcs,,,White,,106,2023-07-12T07:47:52.120+00:183,current
+MGT.C.A.188,Scarb,pcs,,,Blue,,32,2023-07-12T07:47:52.120+00:184,current
+MGT.C.A.189,Cape Cotton,PCS,,,Blue lack,,11,2023-07-12T07:47:52.120+00:185,current
+MGT.C.A.190,Cape Cotton,PCS,,,Black,,0,2023-07-12T07:47:52.120+00:186,current
+MGT.C.A.191,Ajenda,PCS,,,Black,,45,2023-07-12T07:47:52.120+00:187,current
+MGT.C.A.192,Ajenda,PCS,,,Blue,,45,2023-07-12T07:47:52.120+00:188,current
+MGT.C.A.193,Quartz Watch,PCS,,,,,1,2023-07-12T07:47:52.120+00:189,current
+MGT.C.A.194,Mag,PCS,,,White,,81,2023-07-12T07:47:52.120+00:190,current
+MGT.C.A.195,Mag,PCS,Oval,,White,,72,2023-07-12T07:47:52.120+00:191,current
+MGT.C.A.196,Mag,PCS,,,Silver,,17,2023-07-12T07:47:52.120+00:192,current
+MGT.C.A.197,Mag,PCS,,,Golden,,12,2023-07-12T07:47:52.120+00:193,current
+MGT.C.A.198,Mag,PCS,,,Red,,3,2023-07-12T07:47:52.120+00:194,current
+MGT.C.A.199,Metal Mag,PCS,,,White,,32,2023-07-12T07:47:52.120+00:195,current
+MGT.C.A.200,Transparensy Mag,PCS,,,White,,25,2023-07-12T07:47:52.120+00:196,current
+MGT.C.A.201,Small Mag,PCS,,,White,,26,2023-07-12T07:47:52.120+00:197,current
+MGT.C.A.202,D/t Colour Mag,PCS,,,White,,6,2023-07-12T07:47:52.120+00:198,current
+MGT.C.A.203,Stone Sublimation,PCS,21*15,,,,8,2023-07-12T07:47:52.120+00:199,current
+MGT.C.A.204,Business Holder ,PCS,,,,,27,2023-07-12T07:47:52.120+00:200,current
+MGT.C.A.205,MDPhoto,pcs,355*205*27mm,,,,3,2023-07-12T07:47:52.120+00:201,current
+MGT.C.A.206,MDPhoto,pcs,240*355*27mm,,,,3,2023-07-12T07:47:52.120+00:202,current
+MGT.C.A.207,MDPhoto,pcs,325*265*27mm,,,,2,2023-07-12T07:47:52.120+00:203,current
+MGT.C.A.208,MDPhoto,pcs,405*210*27mm,,,,1,2023-07-12T07:47:52.120+00:204,current
+MGT.C.A.209,MDPhoto,pcs,205*305*27mm,,,,2,2023-07-12T07:47:52.120+00:205,current
+MGT.C.A.210,MDPhoto,pcs,205*345*27mm,,,,3,2023-07-12T07:47:52.120+00:206,current
+MGT.C.A.211,Sublimation Stone,pcs,52,,,,8,2023-07-12T07:47:52.120+00:207,current
+MGT.C.A.212,Kerkea ,pcs,045*k-014,,,,1,2023-07-12T07:47:52.120+00:208,current
+MGT.C.A.213,MDPhoto,pcs,205*255*27mm,,,,3,2023-07-12T07:47:52.120+00:209,current
+MGT.C.A.214,Ston Painting,pcs,25.2*3.5*40.9cm,,,,3,2023-07-12T07:47:52.120+00:210,current
+MGT.C.A.215,Ston Painting,pcs,21*15.5*2.7 cm,,,,8,2023-07-12T07:47:52.120+00:211,current
+MGT.C.A.216,Dish (Sahen ),pcs,,,White,,3,2023-07-12T07:47:52.120+00:212,current
+MGT.C.A.217,MDPhoto,pcs,o,,White,,5,2023-07-12T07:47:52.120+00:213,current
+MGT.C.A.218,MDPhoto,pcs,AS,,White,,1,2023-07-12T07:47:52.120+00:214,current
+MGT.C.A.219,Shure Powesa ,pcs,8161 W,,,,1,2023-07-12T07:47:52.120+00:215,current
+MGT.C.A.220,Maks ,pcs,,,White,,150,2023-07-12T07:47:52.120+00:216,current
+MGT.C.A.221,Puzzle,pcs,AS,,White,,1,2023-07-12T07:47:52.120+00:217,current
+MGT.C.A.222,Gelivable / Mesh,pcs,100m,,White,,2,2023-07-12T07:47:52.120+00:218,current
+MGT.C.A.223,Cristal Master Stand Flag,pcs,,,,,1,2023-07-12T07:47:52.120+00:219,current
+MGT.C.A.224,Envelop Sky Line,pcs,80gm,,White,,1131,2023-07-12T07:47:52.120+00:220,current
+MGT.C.A.225,Exercise Book,pcs,50 Sheet,,,,28,2023-07-12T07:47:52.120+00:221,current
+MGT.C.A.226,Exercise Book,pcs,32 Sheet,,,,10,2023-07-12T07:47:52.120+00:222,current
+MGT.C.A.227,CD-Photo Label,pcs,,,,,189,2023-07-12T07:47:52.120+00:223,current
+MGT.C.A.228,Envelop (Sky line ),Pcs,162*114mm,,,,258,2023-07-12T07:47:52.120+00:224,current
+MGT.C.A.229,Envelop,Pcs,20*15,,,,268,2023-07-12T07:47:52.120+00:225,current
+MGT.C.A.230,Wedding Paper,Pcs,15*20,,,,100,2023-07-12T07:47:52.120+00:226,current
+MGT.C.A.231,Wedding Paper,Pcs,21*10,,,,97,2023-07-12T07:47:52.120+00:227,current
+MGT.C.A.232,Wedding Paper,Pcs,24*10,,,,102,2023-07-12T07:47:52.120+00:228,current
+MGT.C.A.233,Wedding Paper (Flower ),Pcs,12.5*20,,,,58,2023-07-12T07:47:52.120+00:229,current
+MGT.C.A.234,Glue Card Baj,Pcs,106*82 mm,,A2,,3020,2023-07-12T07:47:52.120+00:230,current
+MGT.C.A.235,Glue Card Baj,Pcs,150*105 mm,,B4,,21,2023-07-12T07:47:52.120+00:231,current
+MGT.C.A.236,Soft Card Holder,Pcs,54*85mm,,,,138,2023-07-12T07:47:52.120+00:232,current
+MGT.C.A.237,Kofa Stamp,Pcs,,,,,70,2023-07-12T07:47:52.120+00:233,current
+MGT.C.A.238,Endorsing Ink,Pcs,,,,,80,2023-07-12T07:47:52.120+00:234,current
+MGT.C.A.239,Folder Camsur,pocket,,,,,3,2023-07-12T07:47:52.120+00:235,current
+MGT.C.A.240,Laminate (Puncher ),Pcs,110*160*10mm,,,,176,2023-07-12T07:47:52.120+00:236,current
+MGT.C.A.241,ID maieka ,Pcs,A4,,White,,0,2023-07-12T07:47:52.120+00:237,current
+MGT.C.A.242,ID maieka Paper,Pcs,A4,,White,,0,2023-07-12T07:47:52.120+00:238,current
+MGT.C.A.243,OHP /Transparence Paper,Pcs,A4,,White,,70,2023-07-12T07:47:52.120+00:239,current
+MGT.C.A.244,Laminating Pouchs,Pcs,A4,,White,,160,2023-07-12T07:47:52.120+00:240,current
+MGT.C.A.245,Certeficate Golde,Pcs,A4,,Golde,,1000,2023-07-12T07:47:52.120+00:241,current
+MGT.C.A.246,Official Master,Pcs,A4,,,,200,2023-07-12T07:47:52.120+00:242,current
+MGT.C.A.247,Wedding Card,Pcs,A4,,Silver,,145,2023-07-12T07:47:52.120+00:243,current
+MGT.C.A.248,Art Certeficate (Frame ),Pcs,A4 250g,,,,25,2023-07-12T07:47:52.120+00:244,current
+MGT.C.A.249,Art Certeficate (Frame ),Pcs,A4 150g,,Golden,,19,2023-07-12T07:47:52.120+00:245,current
+MGT.C.A.250,Wedding Card,Pcs,A4,,Golden,,35,2023-07-12T07:47:52.120+00:246,current
+MGT.C.A.251,Wedding Card,Pcs,A4,,Green,,80,2023-07-12T07:47:52.120+00:247,current
+MGT.C.A.252,Mag Paper,Pcs,A4,,White,,150,2023-07-12T07:47:52.120+00:248,current

@@ -1,0 +1,8 @@
+db.adminCommand( { renameCollection: "test.cashers" to: "test.receptions", "dropTarget": true } )
+db.adminCommand( { renameCollection: "test.workshopes" to: "test.workshops", "dropTarget": true } )
+
+mongoimport --uri mongodb+srv://aberaalemu:0ibUPm9upm7AzgXu@mgtbackup.6dvkviw.mongodb.net/test --collection inventorys --type csv --file f.csv --headerline
+
+
+
+mongoimport --uri mongodb+srv://mgt:mgtmgt804@mgt.6ho4fpv.mongodb.net/test --collection inventorys --type csv --file f.csv --headerline
