@@ -83,5 +83,7 @@ app.use(
 
 
 const PORT = process.env.PORT || 4000;
-await new Promise((resolve) => httpServer.listen({ port: PORT }, resolve));
-console.log(`🚀 Server ready at http://localhost:${PORT}`);
+const HOST = '0.0.0.0'; // Bind to all network interfaces (required for Render)
+
+await new Promise((resolve) => httpServer.listen({ port: PORT, host: HOST }, resolve));
+console.log(`🚀 Server ready at http://${HOST}:${PORT}`);
