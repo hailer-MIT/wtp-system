@@ -207,14 +207,14 @@ module.exports.resolvers = {
           o.Files = o.files;
           o.files = null;
           o.ReceivedBy = o.receivedBy;
-          o.receivedBy = o.ReceivedBy._id;
+          o.receivedBy = o.ReceivedBy?._id;
           if (o.designedBy) {
             o.DesignedBy = o.designedBy;
-            o.designedBy = o.DesignedBy._id;
+            o.designedBy = o.DesignedBy?._id;
           }
           if (o.workShop) {
             o.WorkShop = o.workShop;
-            o.workShop = o.WorkShop._id;
+            o.workShop = o.WorkShop?._id;
           }
         });
         const total = await Order.countDocuments(object);
@@ -236,14 +236,14 @@ module.exports.resolvers = {
         o.Files = o.files;
         o.files = null;
         o.ReceivedBy = o.receivedBy;
-        o.receivedBy = o.ReceivedBy._id;
+        o.receivedBy = o.ReceivedBy?._id;
         if (o.designedBy) {
           o.DesignedBy = o.designedBy;
-          o.designedBy = o.DesignedBy._id;
+          o.designedBy = o.DesignedBy?._id;
         }
         if (o.workShop) {
           o.WorkShop = o.workShop;
-          o.workShop = o.WorkShop._id;
+          o.workShop = o.WorkShop?._id;
         }
       });
       // console.log(order)
